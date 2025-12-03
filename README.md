@@ -8,6 +8,7 @@
 <br/> 
 <div align="center"> 
   🔭 I’m currently working on **a mobile app**
+  <br/>
   🌱 I’m currently learning **React Native and php**
   <br/> 
 </div> 
