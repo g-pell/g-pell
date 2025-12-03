@@ -1,6 +1,11 @@
-~ 𝓰-𝓹𝓮𝓵𝓵 ~
+<style>
+	h2 {
+		color: red;
+	}
+</style>
+<header>
+	<h2>
+		
+	</h2>
+</header>
 
-	• Currently Studying Swift 💻 
-	• Acquired HTML and CSS ❤️‍🔥
-
- 
