@@ -7,9 +7,9 @@
 <h3 align="center">A passionate software developer from Genoa, Italy</h3> 
 <br/> 
 <div align="center"> 
-  🔭 I’m currently working on **a mobile app**
+  🔭 I’m currently working on ** a mobile app **
   <br/>
-  🌱 I’m currently learning **React Native and php**
+  🌱 I’m currently learning ** React Native and php **
   <br/> 
 </div> 
 <br/>
